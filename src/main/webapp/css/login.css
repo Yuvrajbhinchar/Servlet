@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.main{
+    height: 100%;
+    width: 100%;
+}
+.form-box{
+    width: 50%;
+    height: fit-content;
+}
